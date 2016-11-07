@@ -1,8 +1,5 @@
 # Hello, Github!
 
-
-[TOC]
-
 ## Learn git add
 
 ## Learn git commit
