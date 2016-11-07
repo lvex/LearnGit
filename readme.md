@@ -1,7 +1,7 @@
 # Hello, Github!
----
 
-`TOC
+
+[TOC]
 
 ## Learn git add
 
